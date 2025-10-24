@@ -2,7 +2,7 @@
 Uncovering the Relationships Between Sleep Quality, Lifestyle Factors, and Overall Health
 
 ## Introduction
-Sleep is a fundamental element of human life, it has known that sleep-related issues and illness have an singificant impact on our daily lives, productivity, and long-term wellbeing. Understanding the factors that influence sleep quality and duration is crucial for developing better health interventions and promoting healthier lifestyle choices.
+Sleep is a fundamental element of human life, it has known that sleep-deprived issues and illness have an singificant impact on our daily lives, productivity, and long-term wellbeing. Understanding the factors that influence sleep quality and duration is crucial for developing better health interventions and promoting healthier lifestyle choices.
 
 This project presents a comprehensive analysis of the Sleep Health and Lifestyle Dataset from Kaggle, collected with 400 individual records. The dataset provides an overall picture of sleep health by including demographic information (gender, age, occupation), sleep metrics (duration and quality), lifestyle behaviors (physical activity level, daily steps), physiological indicators (BMI category, blood pressure, heart rate), psychological factors (stress levels), and clinical outcomes (presence or absence of sleep disorders.
 
