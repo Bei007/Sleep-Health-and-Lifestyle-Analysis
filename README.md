@@ -27,6 +27,6 @@ The Sleep Health and Lifestyle Dataset comprises 400 rows and Key Features of th
 
 - None: The individual does not exhibit any specific sleep disorder.
 - Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
-- Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks 
+- Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks. 
 
 ## Research Objectives
