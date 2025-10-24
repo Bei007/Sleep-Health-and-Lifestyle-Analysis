@@ -4,7 +4,12 @@ Uncovering the Relationships Between Sleep Quality, Lifestyle Factors, and Overa
 ## Introduction
 Sleep is a fundamental element of human life, it has known that sleep-related issues and illness have an singificant impact on our daily lives, productivity, and long-term wellbeing. Understanding the factors that influence sleep quality and duration is crucial for developing better health interventions and promoting healthier lifestyle choices.
 
-This project presents a comprehensive analysis of the Sleep Health and Lifestyle Dataset from Kaggle, this multidimensional dataset cllocted with 400 individual records provides a unique opportunity to explore how various aspects of modern lifestyle intersect with sleep health across different demographics and occupations, enabling us to uncover patterns that may inform personalized health recommendations.
+This project presents a comprehensive analysis of the Sleep Health and Lifestyle Dataset from Kaggle, collected with 400 individual records. The dataset provides an overall picture of sleep health by including demographic information (gender, age, occupation), sleep metrics (duration and quality), lifestyle behaviors (physical activity level, daily steps), physiological indicators (BMI category, blood pressure, heart rate), psychological factors (stress levels), and clinical outcomes (presence or absence of sleep disorders
+
+This dataset gives a unique opportunity to understand how various aspects of modern lifestyle intersect with sleep health across different demographics and occupations, enabling us to uncover patterns that may inform personalized health recommendations.
+
+## Research Objectives
+
 
 ## Dataset Overview
 The Sleep Health and Lifestyle Dataset comprises 400 rows and Key Features of the matrics, covering a wide range of variables related to sleep and daily habits.
@@ -29,4 +34,4 @@ The Sleep Health and Lifestyle Dataset comprises 400 rows and Key Features of th
 - Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
 - Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks. 
 
-## Research Objectives
+
