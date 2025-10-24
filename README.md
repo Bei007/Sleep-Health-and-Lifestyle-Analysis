@@ -22,5 +22,11 @@ The Sleep Health and Lifestyle Dataset comprises 400 rows and Key Features of th
 - Heart Rate (bpm): The resting heart rate of the person in beats per minute.
 - Daily Steps: The number of steps the person takes per day.
 - Sleep Disorder: The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea).
- 
+
+### Details about Sleep Disorder Column:
+
+- None: The individual does not exhibit any specific sleep disorder.
+- Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
+- Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks 
+
 ## Research Objectives
