@@ -9,6 +9,17 @@ This project presents a comprehensive analysis of the Sleep Health and Lifestyle
 This dataset gives a unique opportunity to understand how various aspects of modern lifestyle intersect with sleep health across different demographics and occupations, enabling us to uncover patterns that may inform personalized health recommendations.
 
 ## Research Objectives
+The goals of this analytic project are to show:
+
+### 1. Overall distribution of gender, occupation,BMI categories
+### 2.Explore demographic and occupational patterns in sleep duration and quality across the 400-person sample
+### 3. Quantify relationships between physical activity metrics (activity level, daily steps) and sleep outcomes
+### 4. Investigate physiological correlations linking BMI, blood pressure, heart rate, and sleep quality
+### 5. Assess the impact of stress levels on sleep duration, quality, and disorder prevalence
+### 6. Identify risk factors associated with sleep disorders 
+
+## Why this Analysis Matters
+
 
 
 ## Dataset Overview
@@ -34,4 +45,6 @@ The Sleep Health and Lifestyle Dataset comprises 400 rows and Key Features of th
 - Insomnia: The individual experiences difficulty falling asleep or staying asleep, leading to inadequate or poor-quality sleep.
 - Sleep Apnea: The individual suffers from pauses in breathing during sleep, resulting in disrupted sleep patterns and potential health risks. 
 
+## Data Visualizations
 
+### 1. Distrubtion of gender 
