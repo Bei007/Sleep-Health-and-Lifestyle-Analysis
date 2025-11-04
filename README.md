@@ -315,23 +315,18 @@ By addressing these modifiable factors through individual behavior change, workp
 Based on these findings aboved, several recommendations can be proposed:
 
 **1. Occupational Wellness Programs**
-
-High-risk professions (sales, teaching, healthcare) should implement targeted sleep health and stress management programs to address occupation-specific sleep challenges.
+    High-risk professions (sales, teaching, healthcare) should implement targeted sleep health and stress management programs to address occupation-specific sleep challenges.
 
 **2. Workplace Environment Optimization**
-
-Organizations should evaluate and adjust work environments, schedules, and workload demands—particularly for high-stress roles—to support healthier sleep patterns and work-life balance.
+    Organizations should evaluate and adjust work environments, schedules, and workload demands—particularly for high-stress roles—to support healthier sleep patterns and work-life balance.
 
 **3. Sleep Health Education Initiatives**
-
-Provide comprehensive education on sleep's critical role in physical and mental health, emphasizing the connections between lifestyle factors (stress, activity, weight) and sleep quality for at-risk populations.
+    Provide comprehensive education on sleep's critical role in physical and mental health, emphasizing the connections between lifestyle factors (stress, activity, weight) and sleep quality for at-risk populations.
 
 **4. Weight Management Integration**
-
-Encourage individuals with elevated BMI to adopt holistic health programs that address both weight optimization and sleep improvement, recognizing their interconnected benefits.
+    Encourage individuals with elevated BMI to adopt holistic health programs that address both weight optimization and sleep improvement, recognizing their interconnected benefits.
 
 **5. Proactive Screening and Support**
-
-Establish routine sleep disorder screening and consulting services, especially for professions requiring high alertness and individuals showing multiple risk factors (elevated BMI, high stress, irregular live schedules).
+    Establish routine sleep disorder screening and consulting services, especially for professions requiring high alertness and individuals showing multiple risk factors (elevated BMI, high stress, irregular live schedules).
 
 These evidence-based recommendations aim to improve sleep health across demographic and occupational groups by addressing modifiable risk factors through individual behavior change, workplace interventions, and healthcare system quality, ultimately improving better belance towards health and lifestlye.
