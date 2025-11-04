@@ -303,11 +303,11 @@ In summary, this analysis demonstrates that sleep health is a multifaceted pheno
 
 The most actionable insights are:
 
-1. Stress management should be the primary target for most individuals seeking to improve sleep quality
-2. Weight optimization provides dual benefits for both sleep duration and quality while reducing disorder risk
-3. Moderate physical activity (50-80 min/day) represents an optimal range for sleep benefits
-4. Certain occupations face compounded risks requiring targeted workplace interventions and improvements
-5. Sleep disorders are prevalent (41.4%) and often undiagnosed, particularly sleep apnea in women
+1. Stress management should be the primary target for most individuals seeking to improve sleep quality.
+2. Weight optimization provides dual benefits for both sleep duration and quality while reducing disorder risk.
+3. Moderate physical activity (50-80 min/day) represents an optimal range for sleep benefits.
+4. Certain occupations face compounded risks requiring targeted workplace interventions and improvements.
+5. Sleep disorders are prevalent (41.4%) and often undiagnosed, particularly sleep apnea in women.
 
 By addressing these modifiable factors through individual behavior change, workplace interventions, and healthcare system improvements, substantial gains in population sleep health are achievable. Given sleep's fundamental to physical and mental health, and quality of life, these insights represent high-value opportunities for improving public health outcomes.
 
