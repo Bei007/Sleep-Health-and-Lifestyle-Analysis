@@ -298,7 +298,7 @@ Occupational patterns reveal remarkable trends. Salespersons show the highest in
 
 The quality-of-life impact is evident: individuals with sleep disorders consistently report lower sleep quality and higher stress levels. Insomnia sufferers show the lowest quality ratings (~6.5) with consistent patterns, while sleep apnea demonstrates high variability (range 4-9), suggesting differences in condition severity or treatment effectiveness. Importantly, both disorder types associate with elevated stress levels, indicating either that stress contributes to disorder development or that disorders exacerbate stress—bidirectional relationship.
 
-### 6. Conclusion 
+### 6. Conclusions 
 In summary, this analysis demonstrates that sleep health is a multifaceted phenomenon influenced by biological, behavioral, and environmental elements. The strong associations between BMI, stress, physical activity, occupation, and sleep outcomes suggest that effective interventions must not be a single-issue focused.
 
 The most actionable insights are:
