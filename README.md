@@ -93,6 +93,9 @@ Before diving into detailed sleep analysis, it is essential to understand who th
 </table>
 
 ![](./figures/occupation_dist.png)
+**Key Observations:**
+- The gender distribution of this data is 50.5% for males and 49.5% for females.
+- - The largest distribution of BMI categories is Normal at 57.8%, Overweight at 39.6%, and Obese at 2.7% respectively.
 - In the distribution of occupation, the largest number is Nurse, followed by Doctor and Engineer.
 
 ### 2. Sleep Duration Analysis
