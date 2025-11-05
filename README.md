@@ -238,7 +238,7 @@ This chart examines the relationship between BMI categories and sleep disorder p
 
 #### 4.4 Sleep Disorders by Occupation
 This chart shows the percentage distribution of sleep disorders across different occupations.
-![](./figures/sleep_disorder_prevalence_occupation(%).png)
+![](./figures/sleep_disorder_prevalence_occupation_pnt.png)
 **Key Observations:**
 
 - Salespersons show the highest insomnia prevalence (~90%), with minimal sleep apnea.
